@@ -56,5 +56,25 @@
     - **Alternatives**: Delay until morning; Reschedule meeting; Drive
     - **Reality**: Dangers and distractions of fatigue could lead to an accident
     - **External Pressures**: business meeting at destination might influence me
+- A good rule of thumb for the processing phase: if you find yourself saying that it will “probably” be okay, it is definitely time for a solid reality check.
 #### Perform:
 - Pilots can **Perform** risk management by using the **TEAM** choice list of: **Transfer**, **Eliminate**, **Accept**, or **Mitigate**.
+- Once you have **perceived** a hazard (step one) and **processed** its impact on flight safety (step two), it is time to move to the third step, **perform**.
+- To do this phase, use the **TEAM** checklist: 
+    - **Transfer**: Should this risk decision _**be transferred to someone else**_ (e.g., do you need to consult the chief flight instructor?)
+    - **Eliminate**: _**Is there a way to eliminate the hazard?**_
+    - **Accept**: _**Do the benefits of accepting risk outweigh the costs?**_
+    - **Mitigate**: _**What can you do to mitigate the risk?**_
+- The goal is to perform by taking action to eliminate hazards or mitigate risk, and then continuously evaluate the outcome of this action.
+- With the example of low ceilings at destination, for instance, the pilot can perform good ADM by selecting a suitable alternate, knowing where to find good weather, and carrying sufficient fuel to reach it. This course of action would mitigate the risk. But it's important to remember the risk could be eliminated entirely by chosing to wait for better weather.
+#### 3P Continuous Processing
+- Once the pilot has completed the 3P decision process and selected a course of action, the process begins anew because now the set of circumstances brought about by the course of action requires analysis. _**The decision-making process is a continuous loop of perceiving, processing, and performing**_.
+
+### DECIDE Model
+- The DECIDE Model is another continuous loop process that provides the pilot with a logical way of making decisions.
+    - **Detect**
+    - **Estimate**
+    - **Choose (a course of action)**
+    - **Identify (solutions)**
+    - **Do (the necessary actions)**
+    - **Evaluate (effects of those actions)**
