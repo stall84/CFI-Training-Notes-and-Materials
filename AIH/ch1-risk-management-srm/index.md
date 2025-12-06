@@ -1,0 +1,30 @@
+## Chapter 1: Risk Management and Single-Pilot Resource Management
+
+### Defining Risk and other Key Concepts
+- **Risk**: The _probability_ and possible _severity_ of accident or loss from _exposure to various hazards_, including injury to people and loss of resources. Specifically it is _the future impact of a hazard that is not controlled or eliminated. It is the possibility of loss or injury. The level of risk is measured by the number of people and resources affected (exposure); the extent of possible loss (severity); and likelihood of loss (probability)_.
+- **Risk Management**: A formalized way of logically weighing the potential const of risks against the possible benefits of allowing those risks to stand uncontrolled. Specifically it is _a decision making process designed to identify hazards systematically, assess the degree of risk, and determine the best course of action._
+- **Hazard**: A present condition, event, object, or circumstance that could lead to or contribute to an unplanned or undesired event, such as an accident. It is the source of danager. For example, a nick in the propeller represents a hazard. 
+- **Safety**: Freedom from those conditions that can cause death, injury, occupational illness, or damage to or loss of equipment or property, or damage to the environment. Note that absolute safety is not possible because complete freedom from all hazardous conditions is not possible. Therefore, safety is a relative term that implies a level of risk that is both perceived and accepted. 
+
+### Types of Risk
+- **Total Risk**: The sum of identified and unidentified risks
+- **Identified Risk**: Risk which has been determined through various analysis techniques. The first task of system safety is to identify, within practical limitations, all possible risks. 
+- **Unidentified Risk**: Risk not yet identified. Some unidentified risks are subsequently identified when a mishap occurs. Some risks are never known.
+- **Unacceptable Risk**: Risk which cannot be tolerated by the managing activity. It is a subset of identified risk that must be eliminated or controlled.
+- **Acceptable Risk**: Acceptable risk is the part of identified risk that is allowed to persist without further engineering or management action. Making this decision is a difficult yet necessary responsibility of the managing activity. The decision is made with full knowledge that it is the user who is exposed to this risk. 
+- **Residual Risk**: Residual risk is the risk left over after system safety efforts have been fully employed. It is not necessarily the same as acceptable risk. Residual risk is the sum of acceptable risk and unidentified risk. This is the total risk passed on to the user.
+
+![types-of-risks-matrix](./images/risk-types-matrix.png)
+
+### Principles of Risk Management
+- _The goal of risk management is to proactively identify safety-related hazards and mitigate the associated risks._ 
+- When a pilot follows good decision-making practices, the inherent risk in a flight is reduced or even eliminated. Four principles of Risk Management are:
+#### Accept No Unnecessary Risk
+- _Unecessary risk is that which carries no commensurate return in terms of benefits or opportunities_. Of course you will have to accept _some necessary_ risk to be able to fly a plane. But never make a flight where there is unecessary risk with no return value. If you've just received a new plane you aren't familiar with, flying it into low IFR conditions would be an unnecessary risk. 
+#### Make Risk Decisions at the Appropriate Level
+- Risk decisions **should only be made by the person who can develop and implement risk controls**. Especially in a single pilot situation, the pilot makes the decision to accept certain levels of risk, _**so why let anyone else -- such as ATC or your passengers -- make risk decisions for you (the pilot)?**_ 
+#### Accept Risk When Benefits Outweight the Costs
+- All identified benefits should be compared agains all identified costs. Even high-risk endeavors may be undertaken when there is clear knowledge that the sum of the benefits exceeds the sum of the costs. Bringing back the arrival of the brand new airplane from 'accept no unnecessary risk example', a clear, calm day with exquisite weather forecasted would be a good time to fly that airplane for the first (couple of) times instead of Low IFR. 
+#### Integrate Risk Management into Planning at All Levels
+- Risks are more easily assessed and managed in the early planning stages of a flight. Changes made later in the process of planning and execution may become more difficult, time consuming and expensive. However you should still incorporate it at all levels any time risk management takes place. 
+
