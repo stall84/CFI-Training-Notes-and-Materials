@@ -28,3 +28,15 @@
 #### Integrate Risk Management into Planning at All Levels
 - Risks are more easily assessed and managed in the early planning stages of a flight. Changes made later in the process of planning and execution may become more difficult, time consuming and expensive. However you should still incorporate it at all levels any time risk management takes place. 
 
+### Process of Risk Management
+- Risk management is a simple process which identifies operational hazards and takes reasonable measures to reduce risk to personnel, equipment, and the mission. A recurrent process that needs to _**identify the risk, assess the degree of risk, and determine the best course of action to mitigate the risk.**_
+
+#### Step 1 - Identify the Hazard
+- A hazard is any real or potential condition that can cause degredation or disaster. _Experience, commmon sense, and specific analytical tools help identify risks. Once the pilot determines that a hazard poses a potential risk to the flight, it may be further analyzed.
+#### Step 2 - Assess the Risk
+- Each identified risk may be assessed in terms of its likelihood (probability) and its severity (consequences) that could result from the hazards based upon the exposure of humans or equipment to those hazards. An assessment is then available, usually by means of risk assessment matrix, such as an online Flight Risk Awareness Tool (FRAT). _This process defines the probability and severity of an accident_.
+#### Step 3 - Mitigate the Risk
+- Investigate specific strategies and tools that reduce, mitigate or eliminate the risk. 
+
+#### Identifying Risk
+Hazards and their associated risks can either be obvious or harder to detect. You should methodically identify and classify risks to a proposed or ongoing flight by maintaining constant situational awareness. To assist this process, it is helpful to apply the simple acronym [PAVE](../../PHAK/CH2-ADM/PAVE.md) to your risk management process. The acronym stands for Pilot, Aircraft, Environment, External pressures. Use the following guidelines and questions to identify risk using the PAVE acronym.
