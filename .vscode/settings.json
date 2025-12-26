@@ -1,5 +1,7 @@
 {
     "spellchecker.ignoreWordsList": [
-        "roleplaying"
+        "roleplaying",
+        "multitask",
+        "automaticity"
     ]
 }
