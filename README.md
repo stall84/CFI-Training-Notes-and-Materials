@@ -1,9 +1,10 @@
 # CFI Training Notes and Materials
 
 ## Introduction
-These are my notes and thoughts combined with some diagrams and images taken from FAA publications in the lead up to taking the various exams for CFI Airplane.
-Currently the [Fundamentals of Instruction Notes and Material (Gleim)](./FOI-GLEIM/) are the most complete, other books to follow later. 
-Thank you to the FAA, Gleim and ASA for their publications. 
+- These are my notes and thoughts combined with some diagrams and images taken from FAA publications in the lead up to taking the various exams for CFI Airplane.
+- Note that these notes and materials can be used to study for **any** Airplane certificate exam, as much of the material comes from the same material used for the Private, Commercial, and Instrument exams. 
+- Currently the [Fundamentals of Instruction Notes and Material (Gleim)](./FOI-GLEIM/) are the most complete, other books to follow later. 
+- **Thank you to the FAA, Gleim and ASA for their publications**. 
 
 ## Table of Contents
 - [Aviation Instructor's Handbook Notes & Material](./AIH/)
