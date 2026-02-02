@@ -42,7 +42,7 @@
 Hazards and their associated risks can either be obvious or harder to detect. You should methodically identify and classify risks to a proposed or ongoing flight by maintaining constant situational awareness. To assist this process, it is helpful to apply the simple acronym [PAVE](../../PHAK/CH2-ADM/PAVE.md) to your risk management process. The acronym stands for Pilot, Aircraft, Environment, External pressures. Use the following guidelines and questions to identify risk using the PAVE acronym.
 
 - **Pilot In Command (P)**: _Do I have the right qualifications to make this flight? Am I Part 61 satisfied? (recency, biennial, etc)_. 
-    - <a id="pic-imsafe">This</a> is where you integrate your **IMSAFE** checklist for the pilot's readiness to fly and potential risk factors related to the pilot themselves.
+    - <a style="text-decoration:none;color:inherit;" id="pic-imsafe">This</a> is where you integrate your **IMSAFE** checklist for the pilot's readiness to fly and potential risk factors related to the pilot themselves.
         - *I*: Illness
         - *M*: Medication
         - *S*: Stress (Acute or Chronic)
