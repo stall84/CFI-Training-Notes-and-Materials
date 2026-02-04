@@ -13,6 +13,8 @@
         "IMSAFE",
         "aeromedical",
         "pretakeoff",
-        "overstimulation"
+        "overstimulation",
+        "Pretakeoff",
+        "Predescent"
     ]
 }
